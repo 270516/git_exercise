@@ -2,3 +2,5 @@ Banana
 Apple
 Pineapple
 Pomegranate
+Orange
+Mango
